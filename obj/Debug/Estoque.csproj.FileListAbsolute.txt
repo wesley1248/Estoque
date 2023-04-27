@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\Estoque\Estoque\bin\Debug\Estoque.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\Estoque\Estoque\bin\Debug\Estoque.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\Estoque\Estoque\bin\Debug\Estoque.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\Estoque\Estoque\obj\Debug\Estoque.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Estoque\Estoque\obj\Debug\Estoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Estoque\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Estoque\Estoque\obj\Debug\Estoque.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\Estoque\Estoque\obj\Debug\Estoque.pdb
